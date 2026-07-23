@@ -1,0 +1,10 @@
+History/
+Project Logs*/
+__Previews/
+*.PcbDoc.bak
+*.SchDoc.bak
+*.dep
+*.DdbConfig
+Debug/
+Release/
+*.OutJob.OutFile
