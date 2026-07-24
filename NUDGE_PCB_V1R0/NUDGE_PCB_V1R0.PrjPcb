@@ -152,23 +152,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JMNYJGPX
 
 [Document7]
-DocumentPath=MCU_USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MVUTJFZE
-
-[Document8]
 DocumentPath=InputMatrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOWFZRXP
 
-[Document9]
+[Document8]
 DocumentPath=LEDDriver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,8 +185,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIXFXZOV
 
-[Document10]
+[Document9]
 DocumentPath=project_sim_config.simcfg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=external_compomnents\WS2812B2020.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
