@@ -49,7 +49,7 @@ Files use `<name>_V<version>R<revision>`, e.g. `NUDGE_PCB_V1R0`.
 
 ## Credits
 
-Designed by Irshath Ali Syed (IAS) — [@designwithirshath](https://www.linkedin.com/in/irshath-ali-syed/)
+Designed by Irshath Ali Syed— [@designwithirshath](https://www.linkedin.com/in/irshath-ali-syed/)
 
 ## License
 
