@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=EC11E18244AU
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=7
+Version=2.4
+Released=2019-12-11 22:09:57
+Downloaded=2026-07-25 14:33:13
+3D=Y

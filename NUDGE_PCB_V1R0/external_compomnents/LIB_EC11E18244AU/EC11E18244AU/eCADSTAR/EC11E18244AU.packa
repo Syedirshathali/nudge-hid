@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EC11E18244AU"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-01-18-12:53:38)
+    (mountForm default
+        (footprintRef "EC11E18244AU")
+        (spec "System")
+    )
+)
